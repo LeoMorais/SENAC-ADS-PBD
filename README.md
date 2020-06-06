@@ -9,4 +9,4 @@ Com o objetivo de consultar os códigos de exemplos das aulas.
 Qualquer esclarecimento entrar em contato com o professor ou no portal do aluno.
 
 ### Projetos
-* [**pbd**] - Aula 06/06/2020 - Introdução a persistencia a dados com JAVA e Postgresql.
+* [**pbd**] - Aula 06/06/2020 - Introdução a persistência a dados com JAVA e Postgresql.
